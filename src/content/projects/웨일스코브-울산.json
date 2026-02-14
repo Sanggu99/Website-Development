@@ -1,0 +1,57 @@
+{
+  "id": 13,
+  "title": "웨일스코브 울산",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/whales_cove/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "웨일스코브 울산 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/whales_cove/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/whales_cove/img2.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/whales_cove/img3.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/whales_cove/img4.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/whales_cove/img5.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/whales_cove/img6.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/whales_cove/img7.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "Wales Cove Ulsan",
+  "category": "Hotel & Resort"
+}

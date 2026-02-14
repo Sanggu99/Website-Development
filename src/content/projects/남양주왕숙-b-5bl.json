@@ -1,0 +1,37 @@
+{
+  "id": 4,
+  "title": "남양주왕숙 B-5BL",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/namyangju_b5/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "남양주왕숙 B-5BL 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/namyangju_b5/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/namyangju_b5/img2.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "남양주왕숙 B-5BL",
+  "category": "Residential & Masterplan"
+}

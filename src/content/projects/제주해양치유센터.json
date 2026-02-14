@@ -1,0 +1,93 @@
+{
+  "id": 15,
+  "title": "제주해양치유센터",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/jeju_healing/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "제주해양치유센터 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/jeju_healing/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img10.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img11.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img12.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img2.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img3.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img4.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img5.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img6.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img7.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img8.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img9.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img13.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img14.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img15.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/jeju_healing/img16.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "Jeju Marine Healing Center",
+  "category": "Healthcare & Mixed-use"
+}

@@ -1,0 +1,56 @@
+{
+  "id": 2,
+  "title": "구지복합문화센터",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/guji/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "구지복합문화센터는 대지의 수평적 흐름을 건축적으로 재해석하여 자연과 문화가 하나로 녹아드는 장소를 제안합니다.",
+    "물결치는 대지의 형상을 담은 루프 라인은 내부의 다양한 프로그램을 유동적으로 감싸 안으며, 방문객들에게 예측 불가능한 공간적 재미를 선사합니다.",
+    "유리와 금속의 조화로운 사용은 건축물의 무게감을 덜어내고, 주변 자연 경관을 건축 내부로 적극적으로 끌어들입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대구시 달성군"
+    },
+    {
+      "label": "면적",
+      "value": "3,120.50m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상3층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/guji/img1.webp",
+      "fullWidth": false,
+      "caption": "자연의 곡선을 형상화한 유연한 매스 디자인"
+    },
+    {
+      "src": "/projects/guji/img2.webp",
+      "fullWidth": false,
+      "caption": "문화적 교류가 활발히 일어나는 메인 로비"
+    },
+    {
+      "src": "/projects/guji/img3.webp",
+      "fullWidth": false,
+      "caption": "풍경을 적극적으로 수용하는 커튼월 시스템"
+    },
+    {
+      "src": "/projects/guji/img4.webp",
+      "fullWidth": false,
+      "caption": "빛과 그림자가 교차하는 사유의 공간"
+    },
+    {
+      "src": "/projects/guji/img5.webp",
+      "fullWidth": false,
+      "caption": "황혼 녘, 대지와 동화되는 건축물의 실루엣"
+    }
+  ],
+  "titleEn": "Guji Multi-Cultural Center",
+  "category": "Cultural"
+}

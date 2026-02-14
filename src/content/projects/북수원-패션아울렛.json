@@ -1,0 +1,37 @@
+{
+  "id": 8,
+  "title": "북수원 패션아울렛",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/puksuwon/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "북수원 패션아울렛 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/puksuwon/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/puksuwon/img2.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "Buksuwon Fashion Outlet",
+  "category": "Healthcare & Mixed-use"
+}

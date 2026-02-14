@@ -1,0 +1,41 @@
+{
+  "id": 9,
+  "title": "서울 창업허브 구로",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/seoul_hub_guro/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "서울 창업허브 구로 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/seoul_hub_guro/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/seoul_hub_guro/img2.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/seoul_hub_guro/img3.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "Seoul Startup Hub Guro",
+  "category": "Office"
+}

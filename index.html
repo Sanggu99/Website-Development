@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SEOP | Architecture & Urbanism</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=KoPub+World+Dotum:wght@300;500;700&family=Playfair+Display:wght@700;900&family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['"KoPub World Dotum"', 'Inter', 'sans-serif'],
+            serif: ['"Playfair Display"', 'serif'],
+            calisto: ['"Calisto MT"', 'serif'],
+            poppins: ['"Poppins"', 'sans-serif'],
+          },
+          colors: {
+            'cobe-gray': '#f4f4f4',
+            'cobe-dark': '#1a1a1a',
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    html {
+      scroll-behavior: smooth;
+      scroll-snap-type: y proximity;
+    }
+
+    body {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* Webkit Scrollbar */
+    ::-webkit-scrollbar {
+      width: 12px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: #f1f1f1;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #232A53;
+      border-radius: 4px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #1a1f3d;
+    }
+
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    .no-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+
+    .custom-cursor-follower {
+      will-change: transform;
+      pointer-events: none;
+    }
+
+    .admin-mode,
+    .admin-mode * {
+      cursor: auto !important;
+    }
+
+    /* Global Cursor Hide */
+    * {
+      cursor: none !important;
+    }
+
+    /* Video-like Animation Keyframes */
+    @keyframes ken-burns {
+      0% {
+        transform: scale(1);
+      }
+
+      100% {
+        transform: scale(1.15);
+      }
+    }
+
+    @keyframes pan-right {
+      0% {
+        transform: scale(1.1) translateX(-5%);
+      }
+
+      100% {
+        transform: scale(1.1) translateX(5%);
+      }
+    }
+
+    @keyframes pan-left {
+      0% {
+        transform: scale(1.1) translateX(5%);
+      }
+
+      100% {
+        transform: scale(1.1) translateX(-5%);
+      }
+    }
+
+    .animate-video-zoom {
+      animation: ken-burns 8s ease-in-out infinite alternate;
+    }
+
+    .animate-video-pan-right {
+      animation: pan-right 8s ease-in-out infinite alternate;
+    }
+
+    .animate-video-pan-left {
+      animation: pan-left 8s ease-in-out infinite alternate;
+    }
+  </style>
+  <script type="importmap">
+{
+  "imports": {
+    "lucide-react": "https://esm.sh/lucide-react@^0.563.0",
+    "react/": "https://esm.sh/react@^19.2.4/",
+    "react": "https://esm.sh/react@^19.2.4",
+    "@google/genai": "https://esm.sh/@google/genai@^1.39.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.4/"
+  }
+}
+</script>
+
+</head>
+
+<body class="bg-white text-black font-sans selection:bg-[#002D57] selection:text-white">
+  <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+
+</html>

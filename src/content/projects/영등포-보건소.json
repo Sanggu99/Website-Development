@@ -1,0 +1,41 @@
+{
+  "id": 11,
+  "title": "영등포 보건소",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/yeongdeungpo_health/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "영등포 보건소 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/yeongdeungpo_health/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/yeongdeungpo_health/img2.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/yeongdeungpo_health/img3.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "Yeongdeungpo Health Center",
+  "category": "Healthcare & Mixed-use"
+}

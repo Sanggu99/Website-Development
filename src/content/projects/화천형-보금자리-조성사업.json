@@ -1,0 +1,41 @@
+{
+  "id": 17,
+  "title": "화천형 보금자리 조성사업",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/hwacheon/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "화천형 보금자리 조성사업 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/hwacheon/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/hwacheon/img2.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/hwacheon/img3.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "Hwacheon Public Housing Project",
+  "category": "Residential & Masterplan"
+}

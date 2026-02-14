@@ -1,0 +1,53 @@
+{
+  "id": 7,
+  "title": "부암동 공영주차장",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/buam_parking/img1.webp",
+  "layout": "bottom-bar",
+  "description": [
+    "부암동 공영주차장 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/buam_parking/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/buam_parking/img2.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/buam_parking/img3.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/buam_parking/img4.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/buam_parking/img5.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/buam_parking/img6.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "Buam-dong Public Parking Lot",
+  "category": "Special"
+}

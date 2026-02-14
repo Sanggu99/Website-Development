@@ -1,0 +1,61 @@
+{
+  "id": 10,
+  "title": "엑스비스 사옥",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/exvis_office/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "엑스비스 사옥 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/exvis_office/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/exvis_office/img2.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/exvis_office/img3.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/exvis_office/img4.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/exvis_office/img5.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/exvis_office/img6.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/exvis_office/interior_1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/exvis_office/interior_2.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "XBIS Headquarters",
+  "category": "Office"
+}

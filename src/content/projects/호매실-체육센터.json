@@ -1,0 +1,89 @@
+{
+  "id": 16,
+  "title": "호매실 체육센터",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/homaesil/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "호매실 체육센터 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/homaesil/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img10.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img11.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img12.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img13.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img14.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img15.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img2.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img3.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img4.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img5.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img6.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img7.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img8.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/homaesil/img9.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "Homaesil Sports Center",
+  "category": "Cultural"
+}

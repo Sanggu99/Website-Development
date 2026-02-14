@@ -1,0 +1,53 @@
+{
+  "id": 18,
+  "title": "환동해 블루카본센터",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/blue_carbon/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "환동해 블루카본센터 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/blue_carbon/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/blue_carbon/img2.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/blue_carbon/img3.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/blue_carbon/img4.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/blue_carbon/img5.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/blue_carbon/img6.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "East Sea Blue Carbon Center",
+  "category": "Education & Research"
+}

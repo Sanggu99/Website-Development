@@ -1,0 +1,41 @@
+{
+  "id": 14,
+  "title": "이인중학교",
+  "location": "대한민국",
+  "year": "2024",
+  "heroImage": "/projects/iin_middle/img1.webp",
+  "layout": "overlay",
+  "description": [
+    "이인중학교 설계 프로젝트입니다."
+  ],
+  "facts": [
+    {
+      "label": "위치",
+      "value": "대한민국"
+    },
+    {
+      "label": "면적",
+      "value": "4,500m²"
+    },
+    {
+      "label": "규모",
+      "value": "지상 5층"
+    }
+  ],
+  "galleryImages": [
+    {
+      "src": "/projects/iin_middle/img1.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/iin_middle/img2.webp",
+      "fullWidth": false
+    },
+    {
+      "src": "/projects/iin_middle/img3.webp",
+      "fullWidth": false
+    }
+  ],
+  "titleEn": "Iin Middle School",
+  "category": "Education & Research"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "overlay",
+  "galleryImages": [
+    {
+      "fullWidth": false,
+      "src": "/projects/generated-image-february-03-2026-11_00am.jpeg",
+      "caption": "원익홀딩스 투시도"
+    }
+  ],
+  "title": "원익 홀딩스 강남 사옥",
+  "id": 19,
+  "heroImage": "/projects/generated-image-february-03-2026-11_17am.jpeg",
+  "location": "강남",
+  "year": "2025",
+  "description": [],
+  "titleEn": "Wonik Holdings Gangnam Office",
+  "category": "Office"
+}
