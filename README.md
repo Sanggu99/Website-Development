@@ -1,2 +1,1 @@
-# seop-web
-SEOP Website Development
+# Website Development
